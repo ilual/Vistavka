@@ -92,8 +92,8 @@ img {
 @media (max-width: 1500px) {
 
 	img {
-		width: 450px;
-		height: 700px;
+		width: 700px;
+		height: 450px;
 		display: block;
 		margin-left: 250px;
 	}
