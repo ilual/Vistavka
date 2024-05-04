@@ -38,33 +38,25 @@ nav {
     }
 
 @media (min-width: 1200px) {
-    header {
-        padding: 50px;
-    }
-
-    img {
+  header {
+    padding: 50px;
+  }
+  nav {
+    padding: 20px 0;
+  }
+  nav ul li {
+    margin: 0 20px;
+  }
+  main {
+    padding: 50px;
+  }
+  footer {
+    padding: 20px;
+  }
+       img {
         vertical-align: middle;
         max-width: auto;
         max-height: auto;
-    }
-
-    nav {
-        padding: 20px 0;
-    }
-
-        nav ul li {
-            margin: 0 20px;
-        }
-
-    main {
-        padding: 50px;
-    }
-
-    footer {
-        background-color: #0a5b8a;
-        color: #fff;
-        text-align: center;
-        padding: 10px;
     }
 }
 
