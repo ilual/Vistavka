@@ -37,7 +37,7 @@ nav {
         text-decoration: none;
     }
 
-@media (min-width: 3000px) {
+@media (min-width: 1200px) {
     header {
         padding: 50px;
     }
