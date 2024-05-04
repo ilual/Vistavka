@@ -37,35 +37,7 @@ nav {
         text-decoration: none;
     }
 
-@media (min-width: 1500px) {
-    header {
-        padding: 50px;
-    }
 
-    img {
-        vertical-align: middle;
-        max-width: auto;
-        max-height: auto;
-    }
-
-    nav {
-        padding: 20px 0;
-    }
-
-        nav ul li {
-            margin: 0 20px;
-        }
-
-    main {
-        padding: 50px;
-    }
-
-    footer {
-        background-color: #0a5b8a;
-        color: #fff;
-        text-align: center;
-        padding: 10px;
-    }
 
 
     * {
@@ -168,7 +140,7 @@ nav {
         animation-name: fade;
         animation-duration: 1.5s;
     }
-}
+
 
     @keyframes fade {
         from {
