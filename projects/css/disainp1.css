@@ -36,7 +36,7 @@ nav a {
   text-decoration: none;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
 	header {
 		padding: 50px;
 	}
@@ -92,10 +92,10 @@ img {
 @media (max-width: 1500px) {
 
 	img {
-		width: 700px;
-		height: 450px;
-		display: block;
-		margin-left: 250px;
+    width: 900px;
+    height: 500px;
+    display: block;
+    margin-left: 180px;
 	}
 
 }
